@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		B4A1E0C11AC0B3D5003C0AC1 /* EmployeeInheritance */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EmployeeInheritance; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4A1E0C41AC0B3D5003C0AC1 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B4A1E0CB1AC0B403003C0AC1 /* Employee.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Employee.h; sourceTree = "<group>"; };
+		B4A1E0CC1AC0BE24003C0AC1 /* Student.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Student.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				B4A1E0C41AC0B3D5003C0AC1 /* main.cpp */,
+				B4A1E0CB1AC0B403003C0AC1 /* Employee.h */,
+				B4A1E0CC1AC0BE24003C0AC1 /* Student.h */,
 			);
 			path = EmployeeInheritance;
 			sourceTree = "<group>";
